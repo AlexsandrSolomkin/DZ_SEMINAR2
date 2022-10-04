@@ -1,0 +1,15 @@
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\bin\Debug\net6.0\DZ_ SEMINAR_2.exe
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\bin\Debug\net6.0\DZ_ SEMINAR_2.deps.json
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\bin\Debug\net6.0\DZ_ SEMINAR_2.runtimeconfig.json
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\bin\Debug\net6.0\DZ_ SEMINAR_2.dll
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\bin\Debug\net6.0\DZ_ SEMINAR_2.pdb
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.csproj.AssemblyReference.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.AssemblyInfoInputs.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.AssemblyInfo.cs
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.csproj.CoreCompileInputs.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.dll
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\refint\DZ_ SEMINAR_2.dll
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.pdb
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\DZ_ SEMINAR_2.genruntimeconfig.cache
+G:\________Учеба_________\С#\DZ_ SEMINAR_2\obj\Debug\net6.0\ref\DZ_ SEMINAR_2.dll
